@@ -1,0 +1,14 @@
+# DAPLink Firmware - see https://mbed.com/daplink
+Unique ID: 9900000048154e45000b60140000003d0000000097969901
+HIC ID: 97969901
+Auto Reset: 1
+Automation allowed: 0
+Overflow detection: 0
+Daplink Mode: Interface
+Interface Version: 0250
+Git SHA: 682d8303e37355532402b8d93c4f240a3cec02a9
+Local Mods: 0
+USB Interfaces: MSD, CDC, HID, WebUSB
+Interface CRC: 0x3f2b7e12
+Remount count: 0
+URL: https://microbit.org/device/?id=9900&v=0250
